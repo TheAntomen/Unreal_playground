@@ -1,0 +1,21 @@
+# Unreal Engine ignores
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+*.pdb
+*.suo
+*.opensdf
+*.sdf
+*.tmp
+*.cache
+*.log
+*.obj
+*.exe
+*.dll
+*.lib
+*.app
+*.ipa
+*.dylib
+*.so
